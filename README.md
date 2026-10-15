@@ -32,5 +32,3 @@ Focus marketing campaigns on high-performing states and customer segments, and e
 ## Data Notes
 The workbook contains 31,047 records and 28,471 unique Order IDs. These are different measures. Quantity values should be standardized before calculating total units. Sales figures represent the `Amount` column total and should not automatically be interpreted as profit.
 
-## Disclaimer
-This is a portfolio project for retail sales analysis. Customer-related fields should be anonymized before publishing any dataset publicly.
